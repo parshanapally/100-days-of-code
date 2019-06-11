@@ -28,6 +28,15 @@
 **Thoughts:** Decided to go back to the basics and relearn the es6 features. I mostly went through the arrow functions. It wasn't that difficult, but I think when I progress to object destructing, I will probably need to spend more time on that.
 
 
+### Day 4: June 11, 2019 
+
+
+**Today's Progress**: Create a Presentation on the basic of HTML
+
+**Thoughts:** I created a presentation on the basics of HTML for a class I will eventually teach to.
+It was good to back and see how much I knew but realize that I did forget some of the acroymns and what they stand for.
+
+
 
 
 

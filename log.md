@@ -37,6 +37,13 @@
 It was good to back and see how much I knew but realize that I did forget some of the acroymns and what they stand for.
 
 
+### Day 5: June 13, 2019 
+
+
+**Today's Progress**: Worked on the findIndex(), find(), and filter() method.
+
+**Thoughts:** It was a struggle at first but eventually I was able to understand how the functionality works. I also made up a few new problems that I would have to solve on my own. To reiterate wrote down the steps that I needed to take and how I was able to solve the problem.
+
 
 
 

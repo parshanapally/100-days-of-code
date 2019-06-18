@@ -44,6 +44,13 @@ It was good to back and see how much I knew but realize that I did forget some o
 
 **Thoughts:** It was a struggle at first but eventually I was able to understand how the functionality works. I also made up a few new problems that I would have to solve on my own. To reiterate wrote down the steps that I needed to take and how I was able to solve the problem.
 
+### Day 5: June 17, 2019 
+
+
+**Today's Progress**: Worked on writing a post on the findIndex(), find(), and filter() method. Researched the callback function and promises. Finished slides on CSS.
+
+**Thoughts:** I felt that I covered alot of topics today and I made alot more progress than I thought I would. I also had a break through. I finally understood how callbacks actually work. In the past I would kind of unserstand but during problems, the concept would disappear from my brain. Now I feel like I see code and be able to understand how the code works. I need to start updating this repo and start putting the progress in here, so I can look back on what I have accomplished.
+
 
 
 

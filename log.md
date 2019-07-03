@@ -79,6 +79,13 @@ It was good to back and see how much I knew but realize that I did forget some o
 
 **Thoughts:** I tried a different website and I used code sandbox and was able to put all of my course on to this website.
 
+### Day 10: July 3, 2019 
+
+
+**Today's Progress**: Worked on HTML and CSS introduction course on General Assembly
+
+**Thoughts:**  I swear I have been coding everyday just didnt have time to log. Found a free online course on the basics of HTML and CSS and I wanted to see if their teaching style fit my learning style.
+
 
 
 

@@ -79,12 +79,37 @@ It was good to back and see how much I knew but realize that I did forget some o
 
 **Thoughts:** I tried a different website and I used code sandbox and was able to put all of my course on to this website.
 
-### Day 10: July 3, 2019 
+### Day 11: July 3, 2019 
 
 
 **Today's Progress**: Worked on HTML and CSS introduction course on General Assembly
 
 **Thoughts:**  I swear I have been coding everyday just didnt have time to log. Found a free online course on the basics of HTML and CSS and I wanted to see if their teaching style fit my learning style.
+
+### Day 12: July 4, 2019 
+
+
+**Today's Progress**: Enhanced course on HTML and CSS course
+
+**Thoughts:** Even though I already created a lesson plan, I didn't think it was good enough and I wanted to make it better.
+
+
+### Day 13: July 6, 2019 
+
+
+**Today's Progress**: Finished the third GA course for HTML and CSS.
+
+**Thoughts:** I finished the third course. I want to finish all courses and then will recreate the websites similar to the courses I have completed.
+
+
+### Day 14: July 7, 2019 
+
+
+**Today's Progress**: Finished the fourth GA course for HTML and CSS and worked on filtering.
+
+**Thoughts:** I finished the fourth course. I created a problem where I would be using three or more different checkboxes that filter out data, it been rough, I needed a break.
+
+
 
 
 

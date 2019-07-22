@@ -110,6 +110,14 @@ It was good to back and see how much I knew but realize that I did forget some o
 **Thoughts:** I finished the fourth course. I created a problem where I would be using three or more different checkboxes that filter out data, it been rough, I needed a break.
 
 
+### Day 15: July 21, 2019 
+
+
+**Today's Progress**: Finished the fourth GA course for HTML and CSS and worked on filtering.
+
+**Thoughts:** I need to get better at logging my hours. I swear I have been coding everday but I cant seem to remember to log my progress. So for today, I progressed further with my Gatsby blog, I have the layout 90 percent complete and I have the basic structure and it is mobile responisve. All I have left of it is to redo the main page which involves creating images and then I need to link my contact form to my email.
+
+
 
 
 

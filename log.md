@@ -150,7 +150,7 @@ It was good to back and see how much I knew but realize that I did forget some o
 **Thoughts:** I finished the CSS section and I am starting on the Visual Design section of the course.
 
 
-## Day 20: July 29, 2019 
+### Day 20: July 29, 2019 
 
 
 **Today's Progress**: FreeCodeCamp
@@ -160,7 +160,7 @@ It was good to back and see how much I knew but realize that I did forget some o
 
 
 
-## Day 21: July 30, 2019 
+### Day 21: July 30, 2019 
 
 
 **Today's Progress**: FreeCodeCamp
@@ -168,7 +168,7 @@ It was good to back and see how much I knew but realize that I did forget some o
 **Thoughts:** Finished with the first project contniuing with the second.
 
 
-## Day 22: August 1, 2019 
+### Day 22: August 1, 2019 
 
 
 **Today's Progress**: App
@@ -176,21 +176,21 @@ It was good to back and see how much I knew but realize that I did forget some o
 **Thoughts:** Finished the CSS for friend's app.
 
 
-## Day 23: August 2, 2019 
+### Day 23: August 2, 2019 
 
 **Today's Progress**: App
 
 **Thoughts:** Created an api for app and then continued working for projects on freecodecamp.
 
 
-## Day 24: August 3, 2019 
+### Day 24: August 3, 2019 
 
 **Today's Progress**: App
 
 **Thoughts:** On the last project for freecodecamp.
 
 
-## Day 25: August 4, 2019 
+### Day 25: August 4, 2019 
 
 **Today's Progress**: App
 

@@ -117,10 +117,82 @@ It was good to back and see how much I knew but realize that I did forget some o
 
 **Thoughts:** I need to get better at logging my hours. I swear I have been coding everday but I cant seem to remember to log my progress. So for today, I progressed further with my Gatsby blog, I have the layout 90 percent complete and I have the basic structure and it is mobile responisve. All I have left of it is to redo the main page which involves creating images and then I need to link my contact form to my email.
 
+### Day 16: July 22, 2019 
+
+
+**Today's Progress**: FreeCodeCamp
+
+**Thoughts:** Through out this journey I felt like I needed a syllabus to display to myself what I should know when it comes to each language. I decided to get the responsive web design certification. Today I started with the HTML section of the course.
+
+
+### Day 17: July 23, 2019 
+
+
+**Today's Progress**: FreeCodeCamp
+
+**Thoughts:** I finished the HTML section and I am starting on the CSS section of the course.
+
+
+### Day 18: July 27, 2019 
+
+
+**Today's Progress**:App
+
+**Thoughts:** Working on an app for a friend and got stuck on the bootstrap styling.
+
+
+
+### Day 19: July 28, 2019 
+
+
+**Today's Progress**: FreeCodeCamp
+
+**Thoughts:** I finished the CSS section and I am starting on the Visual Design section of the course.
+
+
+## Day 20: July 29, 2019 
+
+
+**Today's Progress**: FreeCodeCamp
+
+**Thoughts:** I finished the Visual Design and Accessbility section and I am starting on the final projects section of the course.
 
 
 
 
+## Day 21: July 30, 2019 
 
 
+**Today's Progress**: FreeCodeCamp
+
+**Thoughts:** Finished with the first project contniuing with the second.
+
+
+## Day 22: August 1, 2019 
+
+
+**Today's Progress**: App
+
+**Thoughts:** Finished the CSS for friend's app.
+
+
+## Day 23: August 2, 2019 
+
+**Today's Progress**: App
+
+**Thoughts:** Created an api for app and then continued working for projects on freecodecamp.
+
+
+## Day 24: August 3, 2019 
+
+**Today's Progress**: App
+
+**Thoughts:** On the last project for freecodecamp.
+
+
+## Day 25: August 4, 2019 
+
+**Today's Progress**: App
+
+**Thoughts:** Finished my last project and got my certification for responsive web design course.
 
